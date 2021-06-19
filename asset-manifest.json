@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Basic-List/static/css/main.2befcb74.chunk.css",
+    "main.js": "/Basic-List/static/js/main.e93188fb.chunk.js",
+    "main.js.map": "/Basic-List/static/js/main.e93188fb.chunk.js.map",
+    "runtime-main.js": "/Basic-List/static/js/runtime-main.1797a885.js",
+    "runtime-main.js.map": "/Basic-List/static/js/runtime-main.1797a885.js.map",
+    "static/js/2.89a23f2c.chunk.js": "/Basic-List/static/js/2.89a23f2c.chunk.js",
+    "static/js/2.89a23f2c.chunk.js.map": "/Basic-List/static/js/2.89a23f2c.chunk.js.map",
+    "static/js/3.7c5e89ad.chunk.js": "/Basic-List/static/js/3.7c5e89ad.chunk.js",
+    "static/js/3.7c5e89ad.chunk.js.map": "/Basic-List/static/js/3.7c5e89ad.chunk.js.map",
+    "index.html": "/Basic-List/index.html",
+    "static/css/main.2befcb74.chunk.css.map": "/Basic-List/static/css/main.2befcb74.chunk.css.map",
+    "static/js/2.89a23f2c.chunk.js.LICENSE.txt": "/Basic-List/static/js/2.89a23f2c.chunk.js.LICENSE.txt",
+    "static/media/checked.8db66026.png": "/Basic-List/static/media/checked.8db66026.png",
+    "static/media/delete.1bf6855e.svg": "/Basic-List/static/media/delete.1bf6855e.svg",
+    "static/media/unChecked.8f07031e.png": "/Basic-List/static/media/unChecked.8f07031e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1797a885.js",
+    "static/js/2.89a23f2c.chunk.js",
+    "static/css/main.2befcb74.chunk.css",
+    "static/js/main.e93188fb.chunk.js"
+  ]
+}
