@@ -1,0 +1,13 @@
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.search {
+  padding: 12.5px 14px;
+}
